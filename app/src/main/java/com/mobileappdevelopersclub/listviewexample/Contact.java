@@ -5,6 +5,10 @@ public class Contact {
 	private String name;
 	
 	private String phoneNumber;
+
+    private String test;
+
+    private String test2;
 	
 	private String picture;
 	
